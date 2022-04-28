@@ -20,6 +20,7 @@ public class Pro36_AppletLife extends Applet {
 
     public void paint(Graphics g) {
         g.drawString("Hello Applet !!", 150, 150);
+        System.out.println("pain called");
     }
 }
 /*
